@@ -1,0 +1,2 @@
+# camera_client
+使用realsense2_camera进行采集，通过TCP发送到前端进行显示
